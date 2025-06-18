@@ -1,7 +1,3 @@
-Thanks! Here's your answer rephrased in **Markdown (MD) format** with additional explanation for clarity:
-
----
-
 ## ✅ Suggested Solution: Handling Dynamic Sheet Names in Power Query
 
 If your Excel workbook contains **only one worksheet**, you can use the following approaches to make your Power Query more flexible and avoid errors when the sheet name changes each week.
